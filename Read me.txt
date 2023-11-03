@@ -1,0 +1,9 @@
+Kindly follow the below instructions to run this code
+
+Step 1: Download the dataset from this link: https://github.com/ggmessier/data-analytics/blob/d9ac085453a21fe65f6464fc67b24f49707be183/data/MLBHospitalData.hd5
+Step 2: Copy all the Codes and this dataset to your TALC or ARC home folder  
+Step 2: In the command line inside Talc or ARC type chmod 732 BatchSubmission.sh
+Step 3: In the command line type ./BatchSubmission.sh
+Step 4: Outputs.csv will be generated in the home folder which can be used to run the Graphs.py file
+Step 5: Have a nice Day!
+
